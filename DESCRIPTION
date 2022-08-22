@@ -1,0 +1,10 @@
+Package: gree0111MATH4753FALL22
+Type: Package
+Title: COntains Functions From Libraries and Labs
+Version: 0.1.0
+Author: Joanthan "Mike" Greene
+Maintainer: Mike Greene <jmgreene@ou.edu>
+Description: Functions taken from MATH 4753 and additional projects
+License: Mike Greene
+Encoding: UTF-8
+LazyData: true
